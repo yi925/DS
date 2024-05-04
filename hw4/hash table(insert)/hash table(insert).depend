@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1705258275 source:c:\users\user\desktop\ds\hw4\hash table(insert)\main.cpp
+	<iostream>
+	<unordered_map>
+	<chrono>
+	<random>
+	<cmath>
+

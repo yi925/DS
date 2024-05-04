@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1705253758 source:c:\users\user\desktop\ds\hw4\balanced binary search tree\main.cpp
+	<iostream>
+	<map>
+	<chrono>
+	<random>
+	<cmath>
+

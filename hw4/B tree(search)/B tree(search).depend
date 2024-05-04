@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1705263798 source:c:\users\user\desktop\ds\hw4\b tree(search)\main.cpp
+	<iostream>
+	<map>
+	<chrono>
+	<random>
+	<cmath>
+
